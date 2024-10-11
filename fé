@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Robótica na Saúde</title>
 <style>
+
 body {
 background-image: url('background.jpg'); /* Imagem de fundo */
 background-size: cover;
@@ -12,22 +13,26 @@ font-family: Arial, sans-serif;
 margin: 0;
 padding: 0;
 }
+
 #container {
 width: 80%;
 margin: 0 auto; /* Centraliza o container */
 text-align: center;
 padding-top: 50px; /* Espaçamento superior */
 }
+
 h1 {
 font-size: 36px; /* Tamanho da fonte do título */
 color: #333; /* Cor do texto */
 }
+
 p {
 font-size: 18px; /* Tamanho da fonte do parágrafo */
 color: #666; /* Cor do texto */
 line-height: 1.6; /* Altura da linha */
 margin-bottom: 20px; /* Espaçamento inferior */
 }
+
 .imagem {
 width: 80%; /* Largura da imagem */
 max-width: 600px; /* Largura máxima */
@@ -37,6 +42,7 @@ margin: 0 auto; /* Centraliza a imagem */
 margin-top: 20px; /* Espaçamento superior */
 margin-bottom: 20px; /* Espaçamento inferior */
 }
+
 .video {
 width: 80%; /* Largura do vídeo */
 max-width: 800px; /* Largura máxima */
@@ -46,6 +52,7 @@ margin: 0 auto; /* Centraliza o vídeo */
 margin-top: 20px; /* Espaçamento superior */
 margin-bottom: 20px; /* Espaçamento inferior */
 }
+
 .botao {
 background-color: #4CAF50; /* Cor de fundo do botão */
 color: white; /* Cor do texto do botão */
@@ -60,6 +67,7 @@ text-decoration: none; /* Remove sublinhado padrão do link */
 margin-top: 20px; /* Espaçamento superior */
 margin-bottom: 20px; /* Espaçamento inferior */
 }
+
 .bloco-flutuante {
 width: 300px; /* Largura do bloco flutuante */
 background-color: #f1f1f1; /* Cor de fundo do bloco flutuante */
@@ -70,6 +78,7 @@ left: 50%; /* Alinha o bloco flutuante ao centro horizontalmente */
 transform: translate(-50%, -50%); /* Move o bloco flutuante para o centro */
 border-radius: 10px; /* Borda arredondada */
 }
+
 </style>
 </head>
 <body>
